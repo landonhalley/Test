@@ -47,7 +47,7 @@
     "versionPublish": "5.6.7",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "favicon": "@PROJECT_PATH@/assets/images/pizza-icon-fast-food-collection-food-icon-isolated-138676-504-128x118.png",
     "mbrsiteDomain": "fo3tgtjnv6",
     "robotsSwitcher": false,
